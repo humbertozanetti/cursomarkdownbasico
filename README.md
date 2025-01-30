@@ -1,20 +1,22 @@
 # cursomarkdownbasico
 Curso básico sobre Markdown
 
+Aqui está uma nota de rodapé simples,[^1] e aqui está uma nota maior.[^notamaior]  
 
-Essas são palavras ==muito importantes==
+[^1]: Esta é a primeira nota de rodapé.  
+
+[^notamaior]: Aqui está uma com múltiplos parágrafos e código.  
+  Indente os parágrafos para incluí-los na nota de rodapé.  
+  Adicione quantos parágrafos quiser.  
 
 
 
-A fórmula da água é H^2^O.
-Tem que calcular o valor sendo X~2~.
+Este é o emoji do "joinha" -> :+1:  
+Este é um emoji de formiga-> :ant:  
 
 
 
-Primeiro termo
-: Esta é a definição do primeiro termo.
 
-Segundo termo
-: Esta é uma definição do segundo termo.
-: Esta é outra definição do segundo termo.
+Este projeto usa uma API do ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white).  
 
+No projeto foi utilizada a linguagem ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54).
