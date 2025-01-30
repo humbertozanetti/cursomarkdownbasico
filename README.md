@@ -9,3 +9,5 @@ Aqui está uma nota de rodapé simples,[^1] e aqui está uma nota maior.[^notama
   Indente os parágrafos para incluí-los na nota de rodapé.  
   Adicione quantos parágrafos quiser.  
 
+H²O
+
